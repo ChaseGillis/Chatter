@@ -7,5 +7,3 @@ Initially created by Joseph Bonneau, 2019. Get in touch if you would like to use
 
 ### Security warning
 This code is meant for educational purposes and may contain vulnerabilities or other bugs. Please do not use it for security-critical applications.
-
-### Test
